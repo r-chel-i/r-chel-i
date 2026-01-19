@@ -6,7 +6,7 @@
 - ✉️ Full-stack developer passionate about AI/ML and UI/UX design
 
 ## 🌷 Recent Projects
-### 🔍 ADO Tool Suite & Query Creator
+### 🔍 [ADO Tool Suite & Query Creator](https://github.com/r-chel-i/ado-query-creator)
 A productivity tool that streamlines Azure DevOps workflows by generating and managing queries across multiple projects. Reduces manual setup, ensures consistent sorting and data retrieval, and improves team efficiency.
 
 <img src="assets/ADO Tool Suite.png" width="600"/>
